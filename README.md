@@ -2,7 +2,7 @@
 ## Telegram казино бот
 ### Установка
 ```
-git clone
+git clone https://github.com/0xSn1kky/tg_casinobot.git
 ```
 
 **Установите модуль**
